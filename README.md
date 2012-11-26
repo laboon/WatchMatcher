@@ -6,6 +6,6 @@ Requires:
   * Perl
   * VLFeat
   * MATLAB
-  * ImageWizard
+  * ImageMagick
   * iMacros (note: only works on Windows)
   * An OS which understands shell (.sh) scripts
